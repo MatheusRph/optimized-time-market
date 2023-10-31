@@ -1,0 +1,22 @@
+{
+  "name": "optimized-time-market",
+  "version": "1.0.0",
+  "description": "Project for optimized time on market\u001b[1;5D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[i\u001b[1;5C\u001b[1;5C\u001b[1;5C\u001b[1;5C\u001b[1;5C\u001b[1;5C\u001b[C\u001b[C\u001b[C\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[D\u001b[Dsuper market",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatheusRph/optimized-time-market.git"
+  },
+  "author": "Matheus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatheusRph/optimized-time-market/issues"
+  },
+  "homepage": "https://github.com/MatheusRph/optimized-time-market#readme",
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
